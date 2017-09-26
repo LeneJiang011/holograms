@@ -33,8 +33,8 @@ Parameters I used
 Report.pptx  
 ---
 I also added a report which I delivered on a presentation after I finished all the projects.  
-There is also an optical image in the ppt. It is very beautiful, I think. :)
-Apologize for all the descriptions in Japanese.
+There is also an optical image in the ppt. It is very beautiful, I think. :)  
+Apologize for all the descriptions in Japanese.  
 Hope that can be of help.  
 
 ---
