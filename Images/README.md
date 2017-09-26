@@ -1,4 +1,4 @@
-#Processed Images
+# Processed Images
 
 Successfully processed images.  
 Note some biases were added to process easily-observed optical images.  
