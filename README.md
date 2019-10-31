@@ -33,4 +33,4 @@ Apologize for all the descriptions in Japanese.
 Hope that can be of help.  
 
 ---
-Hope you can have fun.
+Have fun.
